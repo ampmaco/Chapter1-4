@@ -1,0 +1,182 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.clearfix::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+header {
+	width: 100%;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+header .headline {
+	text-align: center;
+}
+
+.nav-list {
+	margin: 0 auto;
+	padding: 15px 0;
+	text-align: center;
+	border-top: solid thin gray;
+	border-bottom: solid thin gray;
+}
+
+.nav-list-item {
+	list-style: none;
+	display: inline-block;
+	margin: 0 20px;
+}
+
+.main-visual {
+	width: 100%;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.main1 {
+	width: 800px;
+	height: 200px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.A {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #e6ffe9;
+	float: left;
+}
+
+.B {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #cbffd3;
+	float: left;
+}
+
+.C {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #aeffbd;
+	float: left;
+}
+
+.D {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #93ffab;
+	float: left;
+}
+
+.main2 {
+	width: 800px;
+	height: 200px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.E {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #f3ffd8;
+	float: left;
+}
+
+.F {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #edffbe;
+	float: left;
+}
+
+.G {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #e9ffa5;
+	float: left;
+}
+
+.H {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #e4ff8d;
+	float: left;
+}
+
+.main3 {
+	width: 800px;
+	height: 200px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.I {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #d9e5ff;
+	float: left;
+}
+
+.J {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #bad3ff;
+	float: left;
+}
+
+.K {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #a4c6ff;
+	float: left;
+}
+
+.L {
+	width: 200px;
+	height: 200px;
+	margin: 0;
+	padding: 0;
+	background-color: #8eb8ff;
+	float: left;
+}
+
+footer {
+	width: 100%;
+	height: 120px;
+	text-align: center;
+	background-color: #848282;
+}
+
+.footer-text {
+	color: #fff;
+	line-height: 120px;
+}
