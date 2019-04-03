@@ -12,20 +12,20 @@
 
 header {
 	width: 100%;
-	margin: 0 auto;
 	padding: 20px 0;
+	text-align: center;
 }
 
 header .headline {
-	text-align: center;
+	font-size: 32px;
 }
 
 .nav-list {
 	margin: 0 auto;
 	padding: 15px 0;
 	text-align: center;
-	border-top: solid thin gray;
-	border-bottom: solid thin gray;
+	border-top: 1px solid #848282;
+	border-bottom: 1px solid #848282;
 }
 
 .nav-list-item {
@@ -35,23 +35,13 @@ header .headline {
 }
 
 .main-visual {
-	width: 100%;
-	margin: 0 auto;
-	padding: 50px 0;
-}
-
-.main1 {
 	width: 800px;
-	height: 200px;
-	margin: 0 auto;
-	padding: 0;
+	margin: 50px auto;
 }
 
 .A {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #e6ffe9;
 	float: left;
 }
@@ -59,8 +49,6 @@ header .headline {
 .B {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #cbffd3;
 	float: left;
 }
@@ -68,8 +56,6 @@ header .headline {
 .C {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #aeffbd;
 	float: left;
 }
@@ -77,24 +63,13 @@ header .headline {
 .D {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #93ffab;
 	float: left;
-}
-
-.main2 {
-	width: 800px;
-	height: 200px;
-	margin: 0 auto;
-	padding: 0;
 }
 
 .E {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #f3ffd8;
 	float: left;
 }
@@ -102,8 +77,6 @@ header .headline {
 .F {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #edffbe;
 	float: left;
 }
@@ -111,8 +84,6 @@ header .headline {
 .G {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #e9ffa5;
 	float: left;
 }
@@ -120,24 +91,13 @@ header .headline {
 .H {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #e4ff8d;
 	float: left;
-}
-
-.main3 {
-	width: 800px;
-	height: 200px;
-	margin: 0 auto;
-	padding: 0;
 }
 
 .I {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #d9e5ff;
 	float: left;
 }
@@ -145,8 +105,6 @@ header .headline {
 .J {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #bad3ff;
 	float: left;
 }
@@ -154,8 +112,6 @@ header .headline {
 .K {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #a4c6ff;
 	float: left;
 }
@@ -163,8 +119,6 @@ header .headline {
 .L {
 	width: 200px;
 	height: 200px;
-	margin: 0;
-	padding: 0;
 	background-color: #8eb8ff;
 	float: left;
 }
